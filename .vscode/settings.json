@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "C:/Users/kchenn843/djangoweather/venv/Lib/site-packages"
+  ]
+}
